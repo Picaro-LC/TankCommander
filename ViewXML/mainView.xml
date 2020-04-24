@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<view icon="4986" title="Tank Commander" width="424" height="188">
+		<control progid="DecalControls.FixedLayout" clipped="">
+      <control progid="DecalControls.PushButton" name="bLU0025" left="4" top="4" width="80" height="14" text="Long Up 0"/>
+      <control progid="DecalControls.PushButton" name="bLU0250" left="88" top="4" width="80" height="14" text="Long Up 25"/>
+      <control progid="DecalControls.PushButton" name="bLU0500" left="172" top="4" width="80" height="14" text="Long Up 50"/>
+      <control progid="DecalControls.PushButton" name="bLU0750" left="256" top="4" width="80" height="14" text="Long Up 75"/>
+      <control progid="DecalControls.PushButton" name="bLU1000" left="340" top="4" width="80" height="14" text="Long Up 100"/>
+      <control progid="DecalControls.PushButton" name="bSU0025" left="4" top="22" width="80" height="14" text="Near Up 0"/>
+      <control progid="DecalControls.PushButton" name="bSU0250" left="88" top="22" width="80" height="14" text="Near Up 25"/>
+      <control progid="DecalControls.PushButton" name="bSU0500" left="172" top="22" width="80" height="14" text="Near Up 50"/>
+      <control progid="DecalControls.PushButton" name="bSU0750" left="256" top="22" width="80" height="14" text="Near Up 75"/>
+      <control progid="DecalControls.PushButton" name="bSU1000" left="340" top="22" width="80" height="14" text="Near Up 100"/>
+      <control progid="DecalControls.PushButton" name="bLD0025" left="4" top="40" width="80" height="14" text="Long Dn 0"/>
+      <control progid="DecalControls.PushButton" name="bLD0250" left="88" top="40" width="80" height="14" text="Long Dn 25"/>
+      <control progid="DecalControls.PushButton" name="bLD0500" left="172" top="40" width="80" height="14" text="Long Dn 50"/>
+      <control progid="DecalControls.PushButton" name="bLD0750" left="256" top="40" width="80" height="14" text="Long Dn 75"/>
+      <control progid="DecalControls.PushButton" name="bLD1000" left="340" top="40" width="80" height="14" text="Long Dn 100"/>
+      <control progid="DecalControls.PushButton" name="bSD0025" left="4" top="58" width="80" height="14" text="Near Dn 0"/>
+      <control progid="DecalControls.PushButton" name="bSD0250" left="88" top="58" width="80" height="14" text="Near Dn 25"/>
+      <control progid="DecalControls.PushButton" name="bSD0500" left="172" top="58" width="80" height="14" text="Near Dn 50"/>
+      <control progid="DecalControls.PushButton" name="bSD0750" left="256" top="58" width="80" height="14" text="Near Dn 75"/>
+      <control progid="DecalControls.PushButton" name="bSD1000" left="340" top="58" width="80" height="14" text="Near Dn 100"/>
+      <control progid="DecalControls.PushButton" name="bLL0025" left="4" top="76" width="80" height="14" text="Long Lf 0"/>
+      <control progid="DecalControls.PushButton" name="bLL0250" left="88" top="76" width="80" height="14" text="Long Lf 25"/>
+      <control progid="DecalControls.PushButton" name="bLL0500" left="172" top="76" width="80" height="14" text="Long Lf 50"/>
+      <control progid="DecalControls.PushButton" name="bLL0750" left="256" top="76" width="80" height="14" text="Long Lf 75"/>
+      <control progid="DecalControls.PushButton" name="bLL1000" left="340" top="76" width="80" height="14" text="Long Lf 100"/>
+      <control progid="DecalControls.PushButton" name="bSL0025" left="4" top="94" width="80" height="14" text="Near Lf 0"/>
+      <control progid="DecalControls.PushButton" name="bSL0250" left="88" top="94" width="80" height="14" text="Near Lf 25"/>
+      <control progid="DecalControls.PushButton" name="bSL0500" left="172" top="94" width="80" height="14" text="Near Lf 50"/>
+      <control progid="DecalControls.PushButton" name="bSL0750" left="256" top="94" width="80" height="14" text="Near Lf 75"/>
+      <control progid="DecalControls.PushButton" name="bSL1000" left="340" top="94" width="80" height="14" text="Near Lf 100"/>
+      <control progid="DecalControls.PushButton" name="bLR0025" left="4" top="112" width="80" height="14" text="Long Rt 0"/>
+      <control progid="DecalControls.PushButton" name="bLR0250" left="88" top="112" width="80" height="14" text="Long Rt 25"/>
+      <control progid="DecalControls.PushButton" name="bLR0500" left="172" top="112" width="80" height="14" text="Long Rt 50"/>
+      <control progid="DecalControls.PushButton" name="bLR0750" left="256" top="112" width="80" height="14" text="Long Rt 75"/>
+      <control progid="DecalControls.PushButton" name="bLR1000" left="340" top="112" width="80" height="14" text="Long Rt 100"/>
+      <control progid="DecalControls.PushButton" name="bSR0025" left="4" top="130" width="80" height="14" text="Near Rt 0"/>
+      <control progid="DecalControls.PushButton" name="bSR0250" left="88" top="130" width="80" height="14" text="Near Rt 25"/>
+      <control progid="DecalControls.PushButton" name="bSR0500" left="172" top="130" width="80" height="14" text="Near Rt 50"/>
+      <control progid="DecalControls.PushButton" name="bSR0750" left="256" top="130" width="80" height="14" text="Near Rt 75"/>
+      <control progid="DecalControls.PushButton" name="bSR1000" left="340" top="130" width="80" height="14" text="Near Rt 100"/>
+      <control progid="DecalControls.PushButton" name="bTargetLockOn" left="4" top="148" width="80" height="14" text="Select Target"/>
+      <control progid="DecalControls.PushButton" name="bTargetLockOff" left="88" top="148" width="80" height="14" text="Toggle TrgtLk"/>
+      <control progid="DecalControls.PushButton" name="bLineup" left="172" top="148" width="80" height="14" text="Lineup Here"/>
+      <control progid="DecalControls.PushButton" name="bCombatmode" left="256" top="148" width="80" height="14" text="Combat Mode"/>
+      <control progid="DecalControls.PushButton" name="bPeacemode" left="340" top="148" width="80" height="14" text="Peace Mode"/>
+    </control>
+</view>
